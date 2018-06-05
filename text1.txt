@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 38E3-84CF
+
+ Directory of C:\Users\v-vivpa\Desktop\MyProject
+
+06/05/2018  05:40 PM    <DIR>          .
+06/05/2018  05:40 PM    <DIR>          ..
+06/05/2018  05:40 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  35,896,991,744 bytes free
